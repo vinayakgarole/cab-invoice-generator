@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="3ad01082-0691-49f4-8502-0ff39f47de4d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/CabInvoiceGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/CabInvoiceGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/InvoiceServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/InvoiceServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/Ride.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/Ride.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,7 +21,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="UC1_calculate_fare" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
